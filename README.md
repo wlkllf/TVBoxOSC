@@ -1,9 +1,9 @@
 # TVBoxOSC
 
-![Build](https://shields.io/github/workflow/status/wlkllf/wlkllfTVBoxOSC/Test?logo=github&label=Build)
+![Build](https://shields.io/github/workflow/status/wlkllf/TVBoxOSC/Test?logo=github&label=Build)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/TVBoxOSC)
-[![Download](https://img.shields.io/github/v/release/wlkllf/wlkllfTVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/wlkllf/wlkllfTVBoxOSC/releases/latest) 
-[![Total](https://shields.io/github/downloads/wlkllf/wlkllfTVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/wlkllf/wlkllfTVBoxOSC/releases)
+[![Download](https://img.shields.io/github/v/release/wlkllf/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/wlkllf/TVBoxOSC/releases/latest) 
+[![Total](https://shields.io/github/downloads/wlkllf/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/wlkllf/TVBoxOSC/releases)
 
 ## Credits
 This repo relies on the following third-party projects:
