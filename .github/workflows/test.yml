@@ -22,8 +22,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
-            repoName: TVBoxOS
+          - userName: wlkllf
+            repoName: mytv-android
             branchName: main
           - userName: takagen99
             repoName: Box
