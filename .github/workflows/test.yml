@@ -3,7 +3,6 @@ name: Test
 on:
   schedule:
     - cron: 59 6 * * *
-  workflow_dispatch:
   workflow_dispatch:  # 加上这一行，网页就出现Run按钮
     inputs:
       rebuild:
